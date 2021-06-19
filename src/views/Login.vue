@@ -1,4 +1,4 @@
-<<template>
+<template>
   <div>
     <HeaderAuth />
     <div class="card">
