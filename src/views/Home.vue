@@ -18,8 +18,8 @@ import Message from "../components/Message";
 export default {
   components: {
     SideNavi,
-    Message
-  }
+    Message,
+  },
 };
 </script>
 
